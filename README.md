@@ -7,7 +7,7 @@ I did this for my third year project in Computer science
 ## Deployment
 1.Clone repo or download as a zip.<br>
 2.Create a database: <b>OHCMIS</b> and navigate to database directory and import OHCMIS.sql dump file <br>
-3.On a web browser open <i>http:your server name ip address/Patient records-management-system/</i></br>
+3.On a web browser open <i>http:your server name ip address/patient records-management-system/</i></br>
 4.Enjoy and Feel free to make any changes :)
 
 ## Login Credentials
